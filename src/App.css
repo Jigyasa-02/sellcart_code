@@ -1,3 +1,9 @@
+body
+{
+  font-family:'Bitter', serif;
+  /* background-image: url("paper.gif"); */
+ background-color:cornsilk;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +41,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.boxy{
+  width:700 px;
+  background-color:rgb(230, 230, 250);
+  padding:50 px;
+  margin-left: auto;
+  margin-right:auto; 
 }
